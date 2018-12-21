@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zzk/Desktop/作业/web企业级开发/hibernate/hibernate/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
